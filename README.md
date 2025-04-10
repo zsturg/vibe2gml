@@ -75,5 +75,6 @@ depth = 100;
 }
 
 ==============================[End YY]================================
-This is an example of the output. The script combines all of this data for everything in the project folder and outputs to a txt file for LLM. helpful in troubleshooting or vibe coding
+This is an example of the output. The script combines all of this data for everything in
+the project folder and outputs to a txt file for LLM. helpful in troubleshooting or vibe coding
 
