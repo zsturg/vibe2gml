@@ -1,5 +1,5 @@
 # vibe2gml
-a simple app for vibe coding with game maker studio 2. It will generate a txt file with all of your event code and yy file data. you can upload that txt file to llm's for vibe coding. Also allows you to paste event code directly into the app to avoid gms2 interface. Generating the txt file for the llm can make troubleshooting a lot easier, and it makes it a lot easier to work on something over multiple llm sessions.
+a simple app for vibe coding with game maker studio 2. It will generate a txt file with all of your event code and yy file data. you can upload that txt file to llm's for vibe coding. Also allows you to paste event code directly into the app to avoid gms2 interface. Generating the txt file for the llm can make troubleshooting a lot easier, and it makes it a lot easier to work on something over multiple llm sessions. You can also paste code directly in the app, press save, and gms2 will update automatically if you have the option to monitor changes in the settings - it can be faster to paste multiple events this way. 
 <img width="827" alt="v1" src="https://github.com/user-attachments/assets/6b0e7d18-411a-45af-b8d6-063b684f18e7" />
 
 <img width="827" alt="2" src="https://github.com/user-attachments/assets/c59ba30a-eac4-4fe9-ad2b-967e1c9fe010" />
